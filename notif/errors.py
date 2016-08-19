@@ -1,0 +1,2 @@
+class NewNotificationError(Exception):
+    pass
